@@ -1,2 +1,4 @@
-# Adalberto Gonzaga
-@adalbertogonzaga
+---
+layout: default
+title: Adalberto Gonzaga
+---
