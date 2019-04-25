@@ -4,7 +4,7 @@ title: Adalberto Gonzaga
 ---
 ### Personal info
 
-**Adalberto Gonzaga**
+**Adalberto Gonzaga** *<adalbertogonzaga@gmail.com>*
 
 *Software Developer*
-adalbertogonzaga@gmail.com
+
